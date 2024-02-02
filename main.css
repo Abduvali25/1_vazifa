@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior:smooth;
+}
+li a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px;
+   
+
+}
+nav{
+    background-color: #aaa;
+    text-align: center;
+}
+#section1{
+    background-color: aqua;
+    height: 100vh;
+}
+#section2{
+    background-color:blueviolet;
+    height: 100vh;
+}
+#section3{
+    background-color:darkorange;
+    height: 100vh;
+}
+#section4{
+    background-color:chartreuse;
+    height: 100vh;
+}
